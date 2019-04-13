@@ -1,0 +1,9 @@
+//this script is about how to create a veriable and makes an object to show a message with the value of your variable
+
+//how to create a variable ---> variablename = value ---> automatic declaration and defination ---> not the best for me but still ok
+
+myfirstname = "Bence";
+
+//show_message() function is similar as the Console.WriteLine() in C# or the print in lua or python
+
+show_message("Hello my name is " + myfirstname);
