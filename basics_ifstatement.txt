@@ -1,0 +1,13 @@
+name = "Ben";
+age = 17;
+coolrating = 4;
+
+if(coolrating >= 5) {
+    show_message("You are cool");
+}
+
+else if (coolrating >= 5) {show_message("You are barely cool");}
+
+else {
+    show_message("have a nice day");
+}
